@@ -1,0 +1,50 @@
+header nav ul{
+    display:flex ;
+    gap: 15px;
+}
+header nav ul li{
+    list-style: none;
+}
+header nav ul li a{
+ text-decoration: none;
+ color: black;
+}
+.parent .enfant1{
+    color: aqua;
+}
+.parent .enfant2 .enfant2-1 h1{
+    color: rgb(0, 255, 94);
+}
+.parent .enfant2 .enfant2-2 h1{
+    color: yellow;
+}
+.parent .enfant2 h1{
+    color: red;
+}
+ul li p{
+    color: blue;
+    background: none;
+}
+h1{
+    color: blue;
+    font-style: normal;
+}
+h2{
+    color: blue;
+}
+ol li p{
+    color: blue;
+}
+body{
+    background-color: aqua;
+    font-style: oblique;
+}
+.tbl {
+    color: blue;
+}
+form{
+    color: blue;
+}
+footer{
+    color: orangered;
+}
